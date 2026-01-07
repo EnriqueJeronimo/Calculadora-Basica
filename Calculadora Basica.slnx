@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Calculadora Basica/Calculadora Basica.vcxproj" Id="95ffd0e0-f9da-4111-ad50-f7671f61561e" />
+</Solution>
